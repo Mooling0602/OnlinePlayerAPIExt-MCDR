@@ -1,0 +1,15 @@
+{
+    "id": "online_player_api_ext",
+    "version": "0.0.1",
+    "name": "OnlinePlayerAPIExt",
+    "description": {
+        "en_us": "An extension for OnlinePlayerAPI to refresh online players list manually.",
+        "zh_cn": "一个OnlinePlayerAPI的扩展，用于手动刷新玩家列表。"
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.1.0",
+        "online_player_api": ">=1.0.0"
+    },
+    "author": ["Mooling0602"],
+    "link": "https://github.com/Mooling0602/OnlinePlayerAPIExt-MCDR"
+}
